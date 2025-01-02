@@ -1,0 +1,53 @@
+
+/*fronts link*/
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Poppins:wght@400;500;700&family=Ubuntu:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+:root{
+	--red:#FD511A;
+	--black:#000000;
+	--green:#21B573;
+    --white:#ffffff;
+    --bg: #F0FFF0;
+    
+   --pop:"Ubuntu", serif;
+   --rob:"Roboto", serif;
+}
+/*commn staart*/
+body{
+ font-family: var(--pop) ;
+ font-size: 16px;
+ font-weight: 400;
+ color: var(--black);
+
+}
+/*header staart*/
+header{
+background-color: var(--bg);
+}
+.c_nav{
+
+}
+.logo{
+
+}
+.menu{
+
+}
+.menu ul li a{
+
+}
+.menu ul li a:hover{
+
+}
+.btn_cm{
+
+}
+.btn_sign{
+
+}
+.btn_cm:hover{
+
+}
+/*header end*/

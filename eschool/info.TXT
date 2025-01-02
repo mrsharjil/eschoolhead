@@ -1,0 +1,17 @@
+
+
+
+
+color
+
+red #FD511A
+black #000000
+green: #21B573
+bg: #F0FFF0
+
+
+
+ff
+pop = 400,500,700
+rob = 400 
+
